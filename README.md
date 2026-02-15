@@ -30,7 +30,7 @@ I had 3,600+ old tweets on my account — random retweets, Facebook cross-posts,
 ## Setup
 
 ```bash
-git clone https://github.com/aniktahabilder/TweetPurge.git
+git clone https://github.com/atahabilder1/TweetPurge.git
 cd TweetPurge
 
 python3 -m venv venv
