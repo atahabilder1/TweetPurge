@@ -1,0 +1,34 @@
+# Secrets - NEVER commit these
+.env
+*.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Twitter data
+twitter_archive/
+data/
+deleted_tweets_log.json
+fetched_tweets.json
+tweets.js
+*.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/
